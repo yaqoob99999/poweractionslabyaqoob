@@ -26,8 +26,8 @@ on:
 env:
 #edit your values here
   ENVIRONMENT_URL: 'https://orgcc6997db.crm.dynamics.com/'
-  USERNAME: 'admin@M365x54642778.onmicrosoft.com'
-  PASSWORD: '[sd+Tx7%Qj0xQM[923X#v:G4SU=1i5q)'
+  CLIENT_ID: '3c497345-de03-488e-88de-6cbcdcb325a7'
+  TENANT_ID: 'afb8b3f3-4e75-4196-9c79-5ff767ee747e'
 
 permissions:
   contents: write
