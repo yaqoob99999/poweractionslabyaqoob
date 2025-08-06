@@ -26,8 +26,8 @@ on:
 
 env:
 #edit your values here
-  ENVIRONMENT_URL:  https://orgcc6997db.crm.dynamics.com/
-  USERNAME: admin@M365x54642778.onmicrosoft.com
+  ENVIRONMENT_URL:  'https://orgcc6997db.crm.dynamics.com/'
+  USERNAME: 'admin@M365x54642778.onmicrosoft.com'
 
 permissions:
   contents: write
